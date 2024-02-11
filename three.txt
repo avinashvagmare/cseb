@@ -3,6 +3,8 @@ Beans
 apple 
 banana
 guava
+water melon 
+sweet lemon
 
-
-final changes 
+final changes
+bye
