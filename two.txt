@@ -1,4 +1,4 @@
-
+line added by branch b2 new
 added line from branch b3
 
 
