@@ -1,4 +1,4 @@
-line added from branch b3 new
+line added by branch b2 new
 added line from branch b3
-
+for demo purpose from b2
 
