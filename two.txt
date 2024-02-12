@@ -1,4 +1,4 @@
-line added by branch b2 new
+look i made a change
 added line from branch b3
-for demo purpose from b2
+something added from now to change
 
