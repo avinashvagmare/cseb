@@ -1,5 +1,6 @@
-line added by branch b2 new
+look i made a change
 added line from branch b3
 new line for demo purpose
-
+something added from now to change
+master
 
